@@ -103,11 +103,37 @@
         ],
         "async": false
       }
+    },
+    "(app-client)/./app/login-page/Loginform.js": {
+      "": {
+        "id": "(sc_client)/./app/login-page/Loginform.js",
+        "name": "",
+        "chunks": [
+          "app/login-page/page:app/login-page/page"
+        ],
+        "async": false
+      },
+      "*": {
+        "id": "(sc_client)/./app/login-page/Loginform.js",
+        "name": "*",
+        "chunks": [
+          "app/login-page/page:app/login-page/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./app/login-page/Loginform.js",
+        "name": "default",
+        "chunks": [
+          "app/login-page/page:app/login-page/page"
+        ],
+        "async": false
+      }
     }
   },
   "__edge_ssr_module_mapping__": {},
   "__entry_css_files__": {},
-  "/Users/casperkizewski/Projects/Dev2Dev/node_modules/next/dist/client/components/app-router.js": {
+  "/home/brent/Documents/bit-academy/PortofolioExamen/Dev2Dev/node_modules/next/dist/client/components/app-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
@@ -133,7 +159,7 @@
       "async": false
     }
   },
-  "/Users/casperkizewski/Projects/Dev2Dev/node_modules/next/dist/esm/client/components/app-router.js": {
+  "/home/brent/Documents/bit-academy/PortofolioExamen/Dev2Dev/node_modules/next/dist/esm/client/components/app-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
@@ -159,7 +185,7 @@
       "async": false
     }
   },
-  "/Users/casperkizewski/Projects/Dev2Dev/node_modules/next/dist/client/components/error-boundary.js": {
+  "/home/brent/Documents/bit-academy/PortofolioExamen/Dev2Dev/node_modules/next/dist/client/components/error-boundary.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
@@ -185,7 +211,7 @@
       "async": false
     }
   },
-  "/Users/casperkizewski/Projects/Dev2Dev/node_modules/next/dist/esm/client/components/error-boundary.js": {
+  "/home/brent/Documents/bit-academy/PortofolioExamen/Dev2Dev/node_modules/next/dist/esm/client/components/error-boundary.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
@@ -211,7 +237,7 @@
       "async": false
     }
   },
-  "/Users/casperkizewski/Projects/Dev2Dev/node_modules/next/dist/client/components/layout-router.js": {
+  "/home/brent/Documents/bit-academy/PortofolioExamen/Dev2Dev/node_modules/next/dist/client/components/layout-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
@@ -237,7 +263,7 @@
       "async": false
     }
   },
-  "/Users/casperkizewski/Projects/Dev2Dev/node_modules/next/dist/esm/client/components/layout-router.js": {
+  "/home/brent/Documents/bit-academy/PortofolioExamen/Dev2Dev/node_modules/next/dist/esm/client/components/layout-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
@@ -263,7 +289,7 @@
       "async": false
     }
   },
-  "/Users/casperkizewski/Projects/Dev2Dev/node_modules/next/dist/client/components/render-from-template-context.js": {
+  "/home/brent/Documents/bit-academy/PortofolioExamen/Dev2Dev/node_modules/next/dist/client/components/render-from-template-context.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
@@ -289,7 +315,7 @@
       "async": false
     }
   },
-  "/Users/casperkizewski/Projects/Dev2Dev/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
+  "/home/brent/Documents/bit-academy/PortofolioExamen/Dev2Dev/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
@@ -311,6 +337,32 @@
       "name": "default",
       "chunks": [
         "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    }
+  },
+  "/home/brent/Documents/bit-academy/PortofolioExamen/Dev2Dev/app/login-page/Loginform.js": {
+    "": {
+      "id": "(app-client)/./app/login-page/Loginform.js",
+      "name": "",
+      "chunks": [
+        "app/login-page/page:app/login-page/page"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./app/login-page/Loginform.js",
+      "name": "*",
+      "chunks": [
+        "app/login-page/page:app/login-page/page"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./app/login-page/Loginform.js",
+      "name": "default",
+      "chunks": [
+        "app/login-page/page:app/login-page/page"
       ],
       "async": false
     }
