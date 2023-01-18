@@ -5,15 +5,50 @@
       "static/chunks/main-app.js",
       "static/chunks/app/layout.js"
     ],
+    "/head": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/head.js"
+    ],
+    "/topics/faq/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/topics/faq/page.js"
+    ],
+    "/topics/front-end/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/topics/front-end/page.js"
+    ],
     "/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/page.js"
     ],
-    "/head": [
+    "/topics/back-end/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/head.js"
+      "static/chunks/app/topics/back-end/page.js"
+    ],
+    "/topics/fullstack/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/topics/fullstack/page.js"
+    ],
+    "/topics/job-offers/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/topics/job-offers/page.js"
+    ],
+    "/topics/mobile-dev/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/topics/mobile-dev/page.js"
+    ],
+    "/topics/off-topic/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/topics/off-topic/page.js"
     ],
     "/login-page/page": [
       "static/chunks/webpack.js",
