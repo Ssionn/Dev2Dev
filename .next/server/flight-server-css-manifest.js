@@ -1,6 +1,6 @@
 self.__RSC_CSS_MANIFEST={
   "__entry_css_mods__": {
-    "/Users/casperkizewski/Projects/Dev2Dev/app/page": [],
-    "/Users/casperkizewski/Projects/Dev2Dev/app/test/page": []
+    "C:\\xampp\\htdocs\\MindSpace project\\Dev2Dev\\app\\page": [],
+    "C:\\xampp\\htdocs\\MindSpace project\\Dev2Dev\\app\\topics\\back-end\\page": []
   }
 }
