@@ -1,10 +1,9 @@
-import styles from './styles/home-style.module.css';
+import Posts from '../../components/posts.js';
 
 export default function homePage() {
     return (
-      <div className={styles.body}>
-        <h1>Hoi</h1>
-        <p>My homepage is awesome!</p>
+      <div>
+        <Posts />
       </div>
     );
 }
