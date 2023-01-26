@@ -2,6 +2,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    position: absolute;
 
     padding: 10px;
     margin: 5px;
@@ -15,7 +16,23 @@
     font-family: monospace;
     font-weight: bold;
 
-    transition: margin 5s ease-out;
+    transition: margin 5s ease-out, background-color .15s ease-in-out;
+}
+
+.post p {
+    color: white;
+    text-decoration: none;
+    opacity: 85%;
+}
+
+.testanchor {
+    width: 0;
+    height: 0;
+}
+
+.post:hover {
+    background-color: rgb(66, 66, 66);
+    cursor: pointer;
 }
 
 .posts {
