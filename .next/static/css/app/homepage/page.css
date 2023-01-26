@@ -1,0 +1,27 @@
+/*!**************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[3].oneOf[7].use[3]!./app/homepage/Homepage.module.css ***!
+  \**************************************************************************************************************************************************************************************************************************************************************************/
+.Homepage_post__Jc0NT {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    padding: 10px;
+    margin: 5px;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+
+    background-color: black;
+    color: white;
+
+    font-family: monospace;
+    font-weight: bold;
+
+    transition: margin 5s ease-out;
+}
+
+.Homepage_posts__Hwbti {
+    /* display: flex; */
+    align-content: center;
+}
