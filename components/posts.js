@@ -21,16 +21,16 @@ function DataFetching() {
 
     return (
         <div className={styles.posts}>
-            <h1>#Onderwerp</h1>
+            <h1 className={styles.title}>#Onderwerp</h1>
             {
                 posts.map(
                     post =>
                         <a href="../post">
                             <div style={{
-                                marginLeft: `${Math.random() * 1000}px`,
-                                marginRight: `${Math.random() * 1000}px`,
-                                marginTop: `${Math.random() * 1000}px`,
-                                marginBottom: `${Math.random() * 1000}px`
+                                marginLeft: `${Math.random() * 90}%`,
+                                marginRight: `${Math.random() * 65}%`,
+                                marginTop: `${Math.random() * 40}%`,
+                                marginBottom: `${Math.random() * 40}%`
                             }} className={styles.post}>
                                 <p key={post.id}>{post.title}</p>
                             </div>
