@@ -36,6 +36,9 @@
 }
 
 .posts {
-    /* display: flex; */
     align-content: center;
+}
+
+.title {
+    font-family: monospace;
 }
