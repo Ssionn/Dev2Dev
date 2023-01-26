@@ -103,41 +103,11 @@ self.__RSC_MANIFEST={
         ],
         "async": false
       }
-    },
-    "(app-client)/./components/posts.js": {
-      "": {
-        "id": "(sc_client)/./components/posts.js",
-        "name": "",
-        "chunks": [
-          "app/homepage/page:app/homepage/page"
-        ],
-        "async": false
-      },
-      "*": {
-        "id": "(sc_client)/./components/posts.js",
-        "name": "*",
-        "chunks": [
-          "app/homepage/page:app/homepage/page"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./components/posts.js",
-        "name": "default",
-        "chunks": [
-          "app/homepage/page:app/homepage/page"
-        ],
-        "async": false
-      }
     }
   },
   "__edge_ssr_module_mapping__": {},
-  "__entry_css_files__": {
-    "C:\\xampp\\htdocs\\Dev2Dev\\app\\homepage\\page": [
-      "static/css/app/homepage/page.css"
-    ]
-  },
-  "C:\\xampp\\htdocs\\Dev2Dev\\node_modules\\next\\dist\\client\\components\\app-router.js": {
+  "__entry_css_files__": {},
+  "/home/unkown/Projects/School/Dev2Dev/node_modules/next/dist/client/components/app-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
@@ -163,7 +133,33 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "C:\\xampp\\htdocs\\Dev2Dev\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
+  "/home/unkown/Projects/School/Dev2Dev/node_modules/next/dist/esm/client/components/app-router.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    }
+  },
+  "/home/unkown/Projects/School/Dev2Dev/node_modules/next/dist/client/components/error-boundary.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
@@ -189,7 +185,33 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "C:\\xampp\\htdocs\\Dev2Dev\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
+  "/home/unkown/Projects/School/Dev2Dev/node_modules/next/dist/esm/client/components/error-boundary.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    }
+  },
+  "/home/unkown/Projects/School/Dev2Dev/node_modules/next/dist/client/components/layout-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
@@ -215,7 +237,33 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "C:\\xampp\\htdocs\\Dev2Dev\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
+  "/home/unkown/Projects/School/Dev2Dev/node_modules/next/dist/esm/client/components/layout-router.js": {
+    "": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "*",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
+      "name": "default",
+      "chunks": [
+        "app-client-internals:app-client-internals"
+      ],
+      "async": false
+    }
+  },
+  "/home/unkown/Projects/School/Dev2Dev/node_modules/next/dist/client/components/render-from-template-context.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
@@ -241,37 +289,28 @@ self.__RSC_MANIFEST={
       "async": false
     }
   },
-  "C:\\xampp\\htdocs\\Dev2Dev\\app\\homepage\\Homepage.module.css": {
-    "default": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/homepage/page.css"
-      ]
-    }
-  },
-  "C:\\xampp\\htdocs\\Dev2Dev\\components\\posts.js": {
+  "/home/unkown/Projects/School/Dev2Dev/node_modules/next/dist/esm/client/components/render-from-template-context.js": {
     "": {
-      "id": "(app-client)/./components/posts.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
-        "app/homepage/page:app/homepage/page"
+        "app-client-internals:app-client-internals"
       ],
       "async": false
     },
     "*": {
-      "id": "(app-client)/./components/posts.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
-        "app/homepage/page:app/homepage/page"
+        "app-client-internals:app-client-internals"
       ],
       "async": false
     },
     "default": {
-      "id": "(app-client)/./components/posts.js",
+      "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
-        "app/homepage/page:app/homepage/page"
+        "app-client-internals:app-client-internals"
       ],
       "async": false
     }
